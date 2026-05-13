@@ -1,0 +1,9 @@
+matrix-visualizer/
+├── src/
+│   ├── components/
+│   ├── utils/matrix.js
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── package.json
+└── README.md
